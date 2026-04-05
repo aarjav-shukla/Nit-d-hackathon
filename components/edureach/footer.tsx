@@ -27,18 +27,18 @@ export function Footer() {
             </div>
 
             {/* Event info */}
-            <div className="flex flex-wrap items-center justify-center gap-4 text-sm text-muted-foreground">
+            {/* <div className="flex flex-wrap items-center justify-center gap-4 text-sm text-muted-foreground">
               <span>PS ID: EC606</span>
               <span className="hidden sm:inline">•</span>
               <span>Eclipse 6.0</span>
               <span className="hidden sm:inline">•</span>
               <span>EdTech | Accessibility & Inclusion</span>
-            </div>
+            </div> */}
 
             {/* Hosted by */}
-            <div className="text-sm text-muted-foreground text-center md:text-right">
+            {/* <div className="text-sm text-muted-foreground text-center md:text-right">
               Hosted by ACM Chapter, <br className="sm:hidden" />Thapar Institute of Engineering & Technology
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
