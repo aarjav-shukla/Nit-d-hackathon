@@ -1,15 +1,13 @@
-import {
-  Header,
-  Hero,
-  Problem,
-  Personas,
-  Solution,
-  Features,
-  Architecture,
-  TechStack,
-  Roadmap,
-  Footer,
-} from "@/components/edureach"
+import { Header } from "@/components/edureach/header"
+import { Hero } from "@/components/edureach/hero"
+import { Problem } from "@/components/edureach/problem"
+import { Personas } from "@/components/edureach/personas"
+import { Solution } from "@/components/edureach/solution"
+import { Features } from "@/components/edureach/features"
+import { Architecture } from "@/components/edureach/architecture"
+import { TechStack } from "@/components/edureach/tech-stack"
+import { Roadmap } from "@/components/edureach/roadmap"
+import { Footer } from "@/components/edureach/footer"
 
 // EduReach - Bridging the Bandwidth Gap in Education
 // An offline-first, bandwidth-adaptive learning platform
