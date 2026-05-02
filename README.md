@@ -1,5 +1,5 @@
-# frontend-website-build
-
+# Edu-Reach
+This repository contains our project developed during a hackathon. The goal of this project is to build an innovative solution that addresses real-world problems using modern technologies and efficient design principles.
 This is a [Next.js](https://nextjs.org) project bootstrapped with [v0](https://v0.app).
 
 ## Built with v0
